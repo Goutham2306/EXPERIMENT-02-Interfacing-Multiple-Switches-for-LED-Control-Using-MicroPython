@@ -143,20 +143,17 @@ while True:
  
 
 ## OUTPUT
-## FIGURE-01:CIRCUIT CONNECTION:
-![image](https://github.com/user-attachments/assets/163a2f6d-7bc9-4984-8902-ee0ae3f5e4f3)
+## CIRCUIT CONNECTION:
+![image](https://github.com/user-attachments/assets/1d79589f-2452-4ede-b094-acb8ab53e357)
 
+## SWITCH 1 ON:
+![image](https://github.com/user-attachments/assets/e56dedb4-4e7b-4e50-9071-581f0122864a)
 
-## FIGURE-02: CIRCUIT CONNECTION
-![image](https://github.com/user-attachments/assets/e6733d93-e981-4620-8f95-2afd527d8525)
+## SWITCH 2 ON:
+![image](https://github.com/user-attachments/assets/c627039b-311b-4589-a699-af9c3e85c96e)
 
-## FIGURE-03: CODE EXECUTION OUTPUT
-![image](https://github.com/user-attachments/assets/2e3e55ce-24b2-4de4-b98a-b0d62bc2afad)
-
-
-FIGURE-04: LED STATUS BASED ON SWITCH INPUTS
-## TIMING DIGAGRAM 
-![image](https://github.com/user-attachments/assets/a44c2217-6ddf-443d-89cb-a62f569f255c)
+## BOTH SWITCH ON:
+![image](https://github.com/user-attachments/assets/8160d03f-16d2-4520-9d9b-9055eade9b5a)
 
 
 
